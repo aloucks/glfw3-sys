@@ -1,3 +1,4 @@
 [submodule "glfw"]
 	path = glfw
-	url = ./glfw
+	url = https://github.com/aloucks/glfw.git
+	branch = borderless_ncpaint

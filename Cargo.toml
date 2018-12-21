@@ -1,0 +1,10 @@
+[package]
+name = "glfw3-sys"
+version = "0.1.0"
+authors = ["Aaron Loucks <aloucks@cofront.net>"]
+edition = "2015"
+repository = "https://github.com/aloucks/glfw3-sys.git"
+links = "glfw"
+
+[build-dependencies]
+cmake = "0.1"
